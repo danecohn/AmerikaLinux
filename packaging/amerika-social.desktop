@@ -1,9 +1,11 @@
 [Desktop Entry]
-Name=Makk Social
-Comment=Why Can't We Be Friends?
 Type=Application
+Name=Vigil Social
+GenericName=Social client
+Comment=Native desktop client for Vigil Social
 Exec=MakkSocial
 Icon=amerika-social
 Terminal=false
 Categories=Network;InstantMessaging;
+Keywords=social;feed;messages;friends;
 StartupWMClass=MakkSocial

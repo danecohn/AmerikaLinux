@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>social.amerika.linux</id>
+  <name>Vigil Social</name>
+  <summary>Native desktop client for Vigil Social</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <developer id="org.vigiltech"><name>VigilTech</name></developer>
+  <url type="homepage">https://vigiltech.org</url>
+  <description>
+    <p>A native Qt client for Vigil Social. Read the feed, write posts, send messages and join communities from your desktop, with light and dark appearance.</p>
+  </description>
+  <launchable type="desktop-id">amerika-social.desktop</launchable>
+  <icon type="stock">amerika-social</icon>
+  <provides><binary>MakkSocial</binary></provides>
+  <content_rating type="oars-1.1"/>
+</component>
